@@ -84,4 +84,4 @@ The Python application templates are copied into deployed projects without modif
 
 
 ## Video Walkthrough
-[Watch the project demonstration](https://drive.google.com/file/d/1TxFZ4htZ_cEb_0YFqn_XwbawOMkA-Iuw/view?usp=sharing)
+[Watch the project demonstration](https://drive.google.com/file/d/1YzodpHcn6JufRPuay6kjxrrqfpWLMWu9/view?usp=sharing)
